@@ -57,4 +57,4 @@ print(display_specs("Workstation", 16))
 * Learn more about computing history at the [Computer History Museum](https://computerhistory.org/).
 
 ### Architectural Diagram
-![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Von_Neumann_Architecture.svg/640px-Von_Neumann_Architecture.svg.png)
+![Von Neumann Architecture](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
